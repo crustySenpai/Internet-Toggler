@@ -19,6 +19,7 @@ echo 2 = Enable Internet Connection
 echo.
 set /p c=Select your Option: 
 if "%c%" GTR "2" goto wrong
+if "%c%" LSS "1" goto wrong
 if "%c%"=="1" goto disable
 if "%c%"=="2" goto enable
 echo.
