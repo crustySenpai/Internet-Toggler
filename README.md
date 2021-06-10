@@ -6,9 +6,9 @@ Maybe not the best thing on Earth but it does what it should.
 
 Important: If your Adapter Name isn't Ethernet (Check here: "Control Panel > Network and Internet > Network and Sharing Center > Change Adapter Settings" and check the Name) then you need to edit the following Lines in the Script:
 
-netsh interface set interface "Ethernet" disable
-and
-netsh interface set interface "Ethernet" enable
+netsh interface set interface "Ethernet" disable<br/>
+and<br/>
+netsh interface set interface "Ethernet" enable<br/>
 and change the "Ethernet" to your Adapter like "WiFi Private" or whatever it is.
 
 Have Fun with it
