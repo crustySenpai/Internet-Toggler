@@ -1,5 +1,5 @@
 # Internet-Toggler
-Simple Batch Script that Enables / Disables LAN Connections
+Simple Batch Script that Enables / Disables Internet Connections
 
 Got bored and noticed i never made an Batch Script on my own so i decided to make something Simple like an Internet Toggler.
 Maybe not the best thing on Earth but it does what it should.
